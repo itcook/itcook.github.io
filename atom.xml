@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[IT 烹饪汇]]></title>
+  <link href="http://itcook.github.io/atom.xml" rel="self"/>
+  <link href="http://itcook.github.io/"/>
+  <updated>2014-04-28T13:12:06+08:00</updated>
+  <id>http://itcook.github.io/</id>
+  <author>
+    <name><![CDATA[挨踢厨子]]></name>
+    <email><![CDATA[laiwei@me.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
