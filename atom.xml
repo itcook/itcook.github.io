@@ -4,7 +4,7 @@
   <title><![CDATA[IT 烹饪汇]]></title>
   <link href="http://itcook.github.io/atom.xml" rel="self"/>
   <link href="http://itcook.github.io/"/>
-  <updated>2014-04-28T14:16:43+08:00</updated>
+  <updated>2014-04-28T14:40:58+08:00</updated>
   <id>http://itcook.github.io/</id>
   <author>
     <name><![CDATA[挨踢厨子]]></name>
@@ -39,14 +39,20 @@
 <blockquote><p>引用测试
 引用测试行2</p></blockquote>
 
-<p>列表测试：
-1. testtest
-2. test123
-3. test456</p>
+<p>列表测试：</p>
 
-<pre><code>- 686547
-- asdfa
-</code></pre>
+<ol>
+<li><p>testtest</p></li>
+<li><p>test123</p></li>
+<li><p>test456</p>
+
+<ul>
+<li>686547</li>
+<li>asdfa</li>
+</ul>
+</li>
+</ol>
+
 
 <p><em>表格测试：</em></p>
 
