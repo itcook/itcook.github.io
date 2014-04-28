@@ -1,0 +1,36 @@
+---
+layout: post
+title: "test"
+date: 2014-04-28 13:27:57 +0800
+comments: true
+categories: 
+---
+
+#测试
+
+行内代码测试 `code`
+代码块测试：
+
+```objectivec
+#import <cocoa/cocoa.h>
+
+UIImage *image = [UIImage imageNamed:@"test.png"];
+UIImageView *imageView = [[UIImageView alloc] init];
+imageView.image = image;
+```
+
+> 引用测试
+> 引用测试行2
+
+列表测试：
+1. testtest
+2. test123
+3. test456
+	- 686547
+    - asdfa
+    
+*表格测试：*
+
+title|des
+:-:|:-
+test|test
