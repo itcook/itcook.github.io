@@ -4,7 +4,7 @@
   <title><![CDATA[IT 烹饪汇]]></title>
   <link href="http://itcook.github.io/atom.xml" rel="self"/>
   <link href="http://itcook.github.io/"/>
-  <updated>2014-04-28T13:12:06+08:00</updated>
+  <updated>2014-04-28T13:34:11+08:00</updated>
   <id>http://itcook.github.io/</id>
   <author>
     <name><![CDATA[挨踢厨子]]></name>
@@ -12,5 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://itcook.github.io/blog/2014/04/28/test/"/>
+    <updated>2014-04-28T13:27:57+08:00</updated>
+    <id>http://itcook.github.io/blog/2014/04/28/test</id>
+    <content type="html"><![CDATA[<h1>测试</h1>
+
+<p>行内代码测试 <code>code</code>
+代码块测试：</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='objectivec'><span class='line'><span class="cp">#import &lt;cocoa/cocoa.h&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="n">UIImage</span> <span class="o">*</span><span class="n">image</span> <span class="o">=</span> <span class="p">[</span><span class="n">UIImage</span> <span class="nl">imageNamed:</span><span class="s">@&quot;test.png&quot;</span><span class="p">];</span>
+</span><span class='line'><span class="n">UIImageView</span> <span class="o">*</span><span class="n">imageView</span> <span class="o">=</span> <span class="p">[[</span><span class="n">UIImageView</span> <span class="n">alloc</span><span class="p">]</span> <span class="n">init</span><span class="p">];</span>
+</span><span class='line'><span class="n">imageView</span><span class="p">.</span><span class="n">image</span> <span class="o">=</span> <span class="n">image</span><span class="p">;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<blockquote><p>引用测试
+引用测试行2</p></blockquote>
+
+<p>列表测试：
+1. testtest
+2. test123
+3. test456</p>
+
+<pre><code>- 686547
+- asdfa
+</code></pre>
+
+<p><em>表格测试：</em></p>
+
+<table>
+<thead>
+<tr>
+<th align="center">title</th>
+<th align="left">des</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">test</td>
+<td align="left">test</td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
   
 </feed>
